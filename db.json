@@ -1,0 +1,132 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "level": "Intermediate",
+      "progress": 75
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "level": "Intermediate",
+      "progress": 75
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "progress": 75
+    },
+    {
+      "id": 4,
+      "name": "C",
+      "level": "Intermediate",
+      "progress": 75
+    },
+    {
+      "id": 5,
+      "name": "C++",
+      "level": "Intermediate",
+      "progress": 75
+    },
+    {
+      "id": 6,
+      "name": "Python",
+      "level": "Advanced",
+      "progress": 85
+    }
+  ],
+  "interests": [
+    {
+      "id": 1,
+      "title": "Music",
+      "description": "I listen to a lot of music with various genres"
+    },
+    {
+      "id": 2,
+      "title": "Video Games",
+      "description": "I play video games in my free time"
+    },
+    {
+      "id": 3,
+      "title": "sleep",
+      "description": "I sleep a lot"
+    },
+    {
+      "id": 4,
+      "title": "eat",
+      "description": "I eat a lot"
+    },
+    {
+      "id": 5,
+      "title": "Volley Ball",
+      "description": "I play volley ball in my free time with my friends"
+    },
+    {
+      "id": 6,
+      "title": "Taekwondo",
+      "description": "I practice taekwondo in every weekend"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "school": "SD Advent Paal 2 Manado",
+      "startYear": "2010",
+      "endYear": "2013",
+      "delay": 0
+    },
+    {
+      "id": 2,
+      "school": "SMP Advent Paal 2 Manado",
+      "startYear": "2013",
+      "endYear": "2016",
+      "delay": 200
+    },
+    {
+      "id": 3,
+      "school": "SMA Advent Airmadidi",
+      "startYear": "2016",
+      "endYear": "2020",
+      "delay": 400
+    },
+    {
+      "id": 4,
+      "school": "Klabat University",
+      "startYear": "2020",
+      "endYear": "Present",
+      "delay": 600
+    }
+  ],
+
+  "socialMediaLinks": [
+    {
+      "id": 1,
+      "url": "https://web.whatsapp.com/",
+      "title": "WhatsApp",
+      "icon": "fab fa-whatsapp"
+    },
+    {
+      "id": 2,
+      "url": "https://web.facebook.com/",
+      "title": "Facebook",
+      "icon": "fab fa-facebook"
+    },
+    {
+      "id": 3,
+      "url": "https://www.instagram.com/",
+      "title": "Instagram",
+      "icon": "fab fa-instagram"
+    },
+    {
+      "id": 4,
+      "url": "https://github.com/",
+      "title": "Github",
+      "icon": "fab fa-github"
+    }
+  ]
+}
